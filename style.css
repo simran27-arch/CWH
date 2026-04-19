@@ -139,3 +139,25 @@ footer{
     }
   }
 @media screen and (max-width:650px) {
+  .hero-left .one{
+      font-size: 40px;
+      text-align: center;
+    }
+    .hero-left .two{
+      font-size: 35px;
+      text-align: center;
+    }
+  .project{
+      flex-direction: column;
+      gap: 12px;
+    }
+    .pro-img img{
+      width: 80vw;
+      margin: 5px 35px;
+    }
+    .pro-info{
+      padding: 15px 23px;
+    }
+  
+  
+  }
